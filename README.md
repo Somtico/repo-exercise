@@ -1,2 +1,2 @@
-# repo-exercise minor update!
+# repo-exercise
 Lab: Using A Repository
